@@ -17,7 +17,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <th scope="row">3</th>
+                    <th scope="row">1</th>
                     <td colspan="4">Larry the Bird</td>
                     <td>@twitter</td>
                     <td>
